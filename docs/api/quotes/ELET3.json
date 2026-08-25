@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-08-25T20:35:01Z",
+  "symbol": "ELET3",
+  "name": "Eletrobras ON",
+  "market": "B3",
+  "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
+  "price": null,
+  "previousClose": null,
+  "change": null,
+  "changePercent": null,
+  "currency": null,
+  "asOf": null,
+  "error": "RuntimeError: sem dados retornados pelo Yahoo Finance"
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "1970-01-01T00:00:00Z",
+  "generatedAt": "2026-08-25T20:35:09Z",
   "tickers": [
     {
       "symbol": "PETR4",
@@ -102,6 +102,16 @@
       "market": "B3"
     },
     {
+      "symbol": "UGPA3",
+      "name": "Ultrapar Participações ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "GOAU4",
+      "name": "Metalúrgica Gerdau PN",
+      "market": "B3"
+    },
+    {
       "symbol": "AAPL",
       "name": "Apple Inc.",
       "market": "US"
@@ -139,6 +149,11 @@
     {
       "symbol": "JPM",
       "name": "JPMorgan Chase & Co.",
+      "market": "US"
+    },
+    {
+      "symbol": "NKE",
+      "name": "Nike Inc.",
       "market": "US"
     }
   ]
