@@ -19,6 +19,8 @@
   { "symbol": "VIVT3", "yahoo": "VIVT3.SA", "name": "Telefônica Brasil ON", "market": "B3" },
   { "symbol": "ELET3", "yahoo": "ELET3.SA", "name": "Eletrobras ON", "market": "B3" },
   { "symbol": "LREN3", "yahoo": "LREN3.SA", "name": "Lojas Renner ON", "market": "B3" },
+  { "symbol": "UGPA3", "yahoo": "UGPA3.SA", "name": "Ultrapar Participações ON", "market": "B3" },
+  { "symbol": "GOAU4", "yahoo": "GOAU4.SA", "name": "Metalúrgica Gerdau PN", "market": "B3" },
   { "symbol": "AAPL", "yahoo": "AAPL", "name": "Apple Inc.", "market": "US" },
   { "symbol": "MSFT", "yahoo": "MSFT", "name": "Microsoft Corp.", "market": "US" },
   { "symbol": "GOOGL", "yahoo": "GOOGL", "name": "Alphabet Inc.", "market": "US" },
@@ -26,5 +28,6 @@
   { "symbol": "TSLA", "yahoo": "TSLA", "name": "Tesla Inc.", "market": "US" },
   { "symbol": "NVDA", "yahoo": "NVDA", "name": "NVIDIA Corp.", "market": "US" },
   { "symbol": "META", "yahoo": "META", "name": "Meta Platforms Inc.", "market": "US" },
-  { "symbol": "JPM", "yahoo": "JPM", "name": "JPMorgan Chase & Co.", "market": "US" }
+  { "symbol": "JPM", "yahoo": "JPM", "name": "JPMorgan Chase & Co.", "market": "US" },
+  { "symbol": "NKE", "yahoo": "NKE", "name": "Nike Inc.", "market": "US" }
 ]
