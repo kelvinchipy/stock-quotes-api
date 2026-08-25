@@ -1,0 +1,145 @@
+{
+  "generatedAt": "1970-01-01T00:00:00Z",
+  "tickers": [
+    {
+      "symbol": "PETR4",
+      "name": "Petrobras PN",
+      "market": "B3"
+    },
+    {
+      "symbol": "VALE3",
+      "name": "Vale ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "ITUB4",
+      "name": "Itaú Unibanco PN",
+      "market": "B3"
+    },
+    {
+      "symbol": "BBDC4",
+      "name": "Bradesco PN",
+      "market": "B3"
+    },
+    {
+      "symbol": "ABEV3",
+      "name": "Ambev ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "B3SA3",
+      "name": "B3 ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "WEGE3",
+      "name": "WEG ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "MGLU3",
+      "name": "Magazine Luiza ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "ITSA4",
+      "name": "Itaúsa PN",
+      "market": "B3"
+    },
+    {
+      "symbol": "BBAS3",
+      "name": "Banco do Brasil ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "RENT3",
+      "name": "Localiza ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "SUZB3",
+      "name": "Suzano ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "JBSS3",
+      "name": "JBS ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "RADL3",
+      "name": "Raia Drogasil ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "EQTL3",
+      "name": "Equatorial Energia ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "GGBR4",
+      "name": "Gerdau PN",
+      "market": "B3"
+    },
+    {
+      "symbol": "PRIO3",
+      "name": "PetroRio ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "VIVT3",
+      "name": "Telefônica Brasil ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "ELET3",
+      "name": "Eletrobras ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "LREN3",
+      "name": "Lojas Renner ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp.",
+      "market": "US"
+    },
+    {
+      "symbol": "GOOGL",
+      "name": "Alphabet Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
+      "market": "US"
+    },
+    {
+      "symbol": "META",
+      "name": "Meta Platforms Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "market": "US"
+    }
+  ]
+}

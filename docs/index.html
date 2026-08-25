@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>API de Cotações (delay ~15-20min)</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #0b0d12;
+    --card: #131720;
+    --text: #e6e9ef;
+    --muted: #8b93a3;
+    --accent: #5fb3ff;
+    --up: #3ecf8e;
+    --down: #ff6b6b;
+    --border: #232838;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 2rem 1rem 4rem;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+  .subtitle { color: var(--muted); margin-top: 0; margin-bottom: 1.5rem; font-size: 0.95rem; }
+  .card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.5rem;
+  }
+  code {
+    background: #1b2130;
+    padding: 0.15rem 0.4rem;
+    border-radius: 5px;
+    font-size: 0.85em;
+  }
+  table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+  th, td { text-align: left; padding: 0.5rem 0.6rem; border-bottom: 1px solid var(--border); }
+  th { color: var(--muted); font-weight: 600; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.03em; }
+  tr:last-child td { border-bottom: none; }
+  .up { color: var(--up); }
+  .down { color: var(--down); }
+  .muted { color: var(--muted); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .status { font-size: 0.85rem; color: var(--muted); margin-top: 0.75rem; }
+  footer { margin-top: 2rem; color: var(--muted); font-size: 0.8rem; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>API de Cotações de Ações (com delay)</h1>
+    <p class="subtitle">JSON estático, atualizado automaticamente a cada ~15 minutos via GitHub Actions. Fonte: Yahoo Finance.</p>
+
+    <div class="card">
+      <strong>Endpoints</strong>
+      <p>Todas as cotações: <code>/api/quotes.json</code></p>
+      <p>Uma ação específica: <code>/api/quotes/PETR4.json</code></p>
+      <p>Lista de tickers disponíveis: <code>/api/tickers.json</code></p>
+    </div>
+
+    <div class="card">
+      <table id="table">
+        <thead>
+          <tr><th>Símbolo</th><th>Nome</th><th>Mercado</th><th>Preço</th><th>Variação</th><th>Atualizado em (UTC)</th></tr>
+        </thead>
+        <tbody id="tbody">
+          <tr><td colspan="6" class="muted">Carregando…</td></tr>
+        </tbody>
+      </table>
+      <div class="status" id="status"></div>
+    </div>
+
+    <footer>
+      Dados fornecidos "como estão", com atraso de aproximadamente 15 a 20 minutos. Não use para decisões de negociação em tempo real.
+    </footer>
+  </div>
+
+<script>
+async function load() {
+  const tbody = document.getElementById('tbody');
+  const status = document.getElementById('status');
+  try {
+    const res = await fetch('./api/quotes.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    tbody.innerHTML = '';
+    data.quotes.forEach(q => {
+      const tr = document.createElement('tr');
+      const changeClass = (q.change ?? 0) > 0 ? 'up' : (q.change ?? 0) < 0 ? 'down' : 'muted';
+      const changeText = q.change == null ? '—' :
+        `${q.change > 0 ? '+' : ''}${q.change.toFixed(2)} (${q.changePercent > 0 ? '+' : ''}${q.changePercent.toFixed(2)}%)`;
+      tr.innerHTML = `
+        <td><a href="./api/quotes/${q.symbol}.json">${q.symbol}</a></td>
+        <td>${q.name ?? ''}</td>
+        <td>${q.market ?? ''}</td>
+        <td>${q.price != null ? q.price.toLocaleString('pt-BR', {minimumFractionDigits: 2, maximumFractionDigits: 2}) : '—'} ${q.currency ?? ''}</td>
+        <td class="${changeClass}">${changeText}</td>
+        <td class="muted">${q.asOf ? q.asOf.replace('T', ' ').replace('Z', '') : (q.error ? 'erro' : '—')}</td>
+      `;
+      tbody.appendChild(tr);
+    });
+    status.textContent = `Gerado em ${data.generatedAt} · ${data.okCount}/${data.count} tickers ok · ${data.source}`;
+  } catch (err) {
+    tbody.innerHTML = `<tr><td colspan="6" class="muted">Ainda não há dados publicados (rode o workflow "Atualizar cotações" pelo menos uma vez). Erro: ${err}</td></tr>`;
+  }
+}
+load();
+</script>
+</body>
+</html>
