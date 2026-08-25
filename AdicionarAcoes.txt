@@ -1,0 +1,36 @@
+Aqui está o passo a passo — vale tanto para ações quanto para FIIs, o processo é o mesmo:
+
+1. Descubra o símbolo no formato do Yahoo Finance
+
+Ação da B3: o ticker + .SA (ex.: PETR4.SA, UGPA3.SA).
+FII da B3: mesma regra, ticker + .SA (ex.: HGLG11.SA, KNRI11.SA, MXRF11.SA) — os FIIs não têm nenhuma diferença de formato, é só o ticker de 11 dígito também.
+Ação dos EUA: só o ticker, sem sufixo (ex.: NKE, AAPL).
+
+2. Edite o arquivo scripts/tickers.json no repositório
+
+Abra o arquivo no GitHub e clique no lápis ✏️ para editar.
+Adicione uma linha nova antes do ] final, seguindo o mesmo padrão dos outros, e não esqueça da vírgula no final da linha anterior. Exemplo pra adicionar o FII HGLG11:
+json
+  { "symbol": "HGLG11", "yahoo": "HGLG11.SA", "name": "CSHG Logística FII", "market": "FII" }
+
+Fica assim, por exemplo, adicionando depois do JPM:
+
+json
+  { "symbol": "JPM", "yahoo": "JPM", "name": "JPMorgan Chase & Co.", "market": "US" },
+  { "symbol": "HGLG11", "yahoo": "HGLG11.SA", "name": "CSHG Logística FII", "market": "FII" }
+]
+
+O campo "market" é só informativo (aparece na página e no JSON) — pode usar "FII" pra diferenciar dos tickers de ação.
+
+Role até o final e clique em Commit changes.
+
+3. Rode o workflow (ou espere o agendamento automático)
+
+Pra ver o resultado na hora: aba Actions → "Atualizar cotações" → Run workflow.
+Ou simplesmente espere até 15 minutos — o agendamento automático já pega a mudança na próxima execução, sem precisar fazer nada.
+
+4. Confira o resultado
+
+https://kelvinchipy.github.io/stock-quotes-api/api/quotes/HGLG11.json (ou o símbolo que você adicionou).
+
+Para remover uma ação/FII: mesma lógica ao contrário — edite scripts/tickers.json, apague a linha correspondente (ajustando a vírgula da linha anterior/seguinte) e comite. O arquivo antigo em docs/api/quotes/<SYMBOL>.json fica órfão no repositório, mas não causa problema nenh
