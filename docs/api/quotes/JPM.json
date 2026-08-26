@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-26T05:19:34Z",
+  "generatedAt": "2026-08-26T08:04:36Z",
   "symbol": "JPM",
   "name": "JPMorgan Chase & Co.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "price": 356.69,
-  "previousClose": 356.51,
-  "change": 0.18,
-  "changePercent": 0.0505,
+  "previousClose": 356.73,
+  "change": -0.04,
+  "changePercent": -0.0112,
   "currency": "USD",
   "asOf": "2026-08-25T19:45:00Z",
   "error": null
