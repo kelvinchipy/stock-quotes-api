@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T11:51:49Z",
+  "generatedAt": "2026-08-26T14:28:35Z",
   "symbol": "AMZN",
   "name": "Amazon.com Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 260.97,
+  "price": 258.95,
   "previousClose": 260.55,
-  "change": 0.42,
-  "changePercent": 0.1612,
+  "change": -1.6,
+  "changePercent": -0.6141,
   "currency": "USD",
-  "asOf": "2026-08-25T19:45:00Z",
+  "asOf": "2026-08-26T14:15:00Z",
   "error": null
 }

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T11:51:37Z",
+  "generatedAt": "2026-08-26T14:28:22Z",
   "symbol": "ABEV3",
   "name": "Ambev ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 15.3,
-  "previousClose": 15.25,
-  "change": 0.05,
-  "changePercent": 0.3279,
+  "price": 15.32,
+  "previousClose": 15.3,
+  "change": 0.02,
+  "changePercent": 0.1307,
   "currency": "BRL",
-  "asOf": "2026-08-25T19:45:00Z",
+  "asOf": "2026-08-26T14:00:00Z",
   "error": null
 }

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T11:51:48Z",
+  "generatedAt": "2026-08-26T14:28:34Z",
   "symbol": "AAPL",
   "name": "Apple Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 309.83,
+  "price": 312.23,
   "previousClose": 309.35,
-  "change": 0.48,
-  "changePercent": 0.1552,
+  "change": 2.88,
+  "changePercent": 0.931,
   "currency": "USD",
-  "asOf": "2026-08-25T19:45:00Z",
+  "asOf": "2026-08-26T14:15:00Z",
   "error": null
 }

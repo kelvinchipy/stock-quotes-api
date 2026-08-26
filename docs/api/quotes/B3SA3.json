@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T11:51:37Z",
+  "generatedAt": "2026-08-26T14:28:22Z",
   "symbol": "B3SA3",
   "name": "B3 ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 15.82,
-  "previousClose": 15.45,
-  "change": 0.37,
-  "changePercent": 2.3948,
+  "price": 16.0,
+  "previousClose": 15.82,
+  "change": 0.18,
+  "changePercent": 1.1378,
   "currency": "BRL",
-  "asOf": "2026-08-25T19:45:00Z",
+  "asOf": "2026-08-26T14:00:00Z",
   "error": null
 }

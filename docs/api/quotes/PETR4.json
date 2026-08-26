@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-26T11:51:35Z",
+  "generatedAt": "2026-08-26T14:28:20Z",
   "symbol": "PETR4",
   "name": "Petrobras PN",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 41.31,
-  "previousClose": 42.11,
-  "change": -0.8,
-  "changePercent": -1.8998,
+  "price": 41.62,
+  "previousClose": 41.31,
+  "change": 0.31,
+  "changePercent": 0.7504,
   "currency": "BRL",
-  "asOf": "2026-08-25T19:45:00Z",
+  "asOf": "2026-08-26T14:00:00Z",
   "error": null
 }
