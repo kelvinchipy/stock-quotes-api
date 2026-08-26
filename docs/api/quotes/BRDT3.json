@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-08-26T18:43:33Z",
+  "symbol": "BRDT3",
+  "name": "BR Distribuidora ON (ticker antigo — ver VBBR3)",
+  "market": "B3",
+  "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
+  "price": null,
+  "previousClose": null,
+  "change": null,
+  "changePercent": null,
+  "currency": null,
+  "asOf": null,
+  "error": "RuntimeError: sem dados retornados pelo Yahoo Finance"
+}

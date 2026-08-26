@@ -1,44 +1,9 @@
 {
-  "generatedAt": "2026-08-26T14:28:38Z",
+  "generatedAt": "2026-08-26T18:43:51Z",
   "tickers": [
-    {
-      "symbol": "PETR4",
-      "name": "Petrobras PN",
-      "market": "B3"
-    },
     {
       "symbol": "VALE3",
       "name": "Vale ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "ITUB4",
-      "name": "Itaú Unibanco PN",
-      "market": "B3"
-    },
-    {
-      "symbol": "BBDC4",
-      "name": "Bradesco PN",
-      "market": "B3"
-    },
-    {
-      "symbol": "ABEV3",
-      "name": "Ambev ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "B3SA3",
-      "name": "B3 ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "WEGE3",
-      "name": "WEG ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "MGLU3",
-      "name": "Magazine Luiza ON",
       "market": "B3"
     },
     {
@@ -47,58 +12,23 @@
       "market": "B3"
     },
     {
-      "symbol": "BBAS3",
-      "name": "Banco do Brasil ON",
+      "symbol": "EGIE3",
+      "name": "Engie Brasil Energia ON",
       "market": "B3"
     },
     {
-      "symbol": "RENT3",
-      "name": "Localiza ON",
+      "symbol": "IRBR3",
+      "name": "IRB Brasil RE ON",
       "market": "B3"
     },
     {
-      "symbol": "SUZB3",
-      "name": "Suzano ON",
+      "symbol": "WEGE3",
+      "name": "WEG ON",
       "market": "B3"
     },
     {
-      "symbol": "JBSS3",
-      "name": "JBS ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "RADL3",
-      "name": "Raia Drogasil ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "EQTL3",
-      "name": "Equatorial Energia ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "GGBR4",
-      "name": "Gerdau PN",
-      "market": "B3"
-    },
-    {
-      "symbol": "PRIO3",
-      "name": "PetroRio ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "VIVT3",
-      "name": "Telefônica Brasil ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "ELET3",
-      "name": "Eletrobras ON",
-      "market": "B3"
-    },
-    {
-      "symbol": "LREN3",
-      "name": "Lojas Renner ON",
+      "symbol": "GRND3",
+      "name": "Grendene ON",
       "market": "B3"
     },
     {
@@ -107,28 +37,78 @@
       "market": "B3"
     },
     {
+      "symbol": "PCIP11",
+      "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
+      "market": "FII"
+    },
+    {
+      "symbol": "BRDT3",
+      "name": "BR Distribuidora ON (ticker antigo — ver VBBR3)",
+      "market": "B3"
+    },
+    {
+      "symbol": "ENEV3",
+      "name": "Eneva ON",
+      "market": "B3"
+    },
+    {
       "symbol": "GOAU4",
       "name": "Metalúrgica Gerdau PN",
       "market": "B3"
     },
     {
-      "symbol": "AAPL",
-      "name": "Apple Inc.",
+      "symbol": "BOVA11",
+      "name": "iShares Ibovespa (ETF)",
+      "market": "ETF"
+    },
+    {
+      "symbol": "KFOF11",
+      "name": "Kinea Fundo de Fundos FII",
+      "market": "FII"
+    },
+    {
+      "symbol": "BBDC3",
+      "name": "Bradesco ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "VBBR3",
+      "name": "Vibra Energia ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "MGLU3",
+      "name": "Magazine Luiza ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "ONCO3",
+      "name": "Oncoclínicas do Brasil ON",
+      "market": "B3"
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
       "market": "US"
     },
     {
-      "symbol": "MSFT",
-      "name": "Microsoft Corp.",
+      "symbol": "NKE",
+      "name": "Nike Inc.",
       "market": "US"
     },
     {
-      "symbol": "GOOGL",
-      "name": "Alphabet Inc.",
+      "symbol": "MELI",
+      "name": "MercadoLibre Inc.",
       "market": "US"
     },
     {
-      "symbol": "AMZN",
-      "name": "Amazon.com Inc.",
+      "symbol": "GLD",
+      "name": "SPDR Gold Shares (ETF)",
+      "market": "ETF"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corp.",
       "market": "US"
     },
     {
@@ -137,8 +117,63 @@
       "market": "US"
     },
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corp.",
+      "symbol": "KO",
+      "name": "The Coca-Cola Co.",
+      "market": "US"
+    },
+    {
+      "symbol": "JNJ",
+      "name": "Johnson & Johnson",
+      "market": "US"
+    },
+    {
+      "symbol": "SPCX",
+      "name": "Space Exploration Technologies Corp. (SpaceX)",
+      "market": "US"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corp.",
+      "market": "US"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corp.",
+      "market": "US"
+    },
+    {
+      "symbol": "US500",
+      "name": "S&P 500 (índice)",
+      "market": "Índice"
+    },
+    {
+      "symbol": "BLK",
+      "name": "BlackRock Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "USDBRL",
+      "name": "Dólar americano / Real (câmbio)",
+      "market": "Câmbio"
+    },
+    {
+      "symbol": "SKHY",
+      "name": "SKHY (verificar ativo exato após 1ª execução)",
+      "market": "US"
+    },
+    {
+      "symbol": "BRKB",
+      "name": "Berkshire Hathaway Cl. B",
+      "market": "US"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corp.",
+      "market": "US"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices Inc.",
       "market": "US"
     },
     {
@@ -147,13 +182,18 @@
       "market": "US"
     },
     {
-      "symbol": "JPM",
-      "name": "JPMorgan Chase & Co.",
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
       "market": "US"
     },
     {
-      "symbol": "NKE",
-      "name": "Nike Inc.",
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "market": "US"
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corp.",
       "market": "US"
     }
   ]
