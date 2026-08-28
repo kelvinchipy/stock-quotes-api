@@ -50,7 +50,7 @@ def fetch_one(entry):
 
         # Histórico intradiário recente: nos dá o último preço "fechado"
         # de um candle de 15 min, junto com o horário exato daquele candle.
-        hist = ticker.history(period="2d", interval="15m")
+        hist = ticker.history(period="2d", interval="5m")
         if hist.empty:
             # Mercado pode estar fechado há mais tempo (fim de semana,
             # feriado) — cai para o último fechamento diário disponível.
