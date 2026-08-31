@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-31T18:10:32Z",
+  "generatedAt": "2026-08-31T18:15:33Z",
   "symbol": "KFOF11",
   "name": "Kinea Fundo de Fundos FII",
   "market": "FII",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 77.91,
+  "price": 77.8,
   "previousClose": 77.0,
-  "change": 0.91,
-  "changePercent": 1.1818,
+  "change": 0.8,
+  "changePercent": 1.039,
   "currency": "BRL",
-  "asOf": "2026-08-31T17:50:00Z",
+  "asOf": "2026-08-31T18:00:00Z",
   "error": null
 }
