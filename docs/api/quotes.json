@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:30:49Z",
+  "generatedAt": "2026-08-31T20:35:49Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -404,7 +404,7 @@
       "change": -0.0008,
       "changePercent": -0.0154,
       "currency": "BRL",
-      "asOf": "2026-08-31T20:30:00Z",
+      "asOf": "2026-08-31T20:35:00Z",
       "error": null
     },
     {
@@ -464,10 +464,10 @@
       "name": "Meta Platforms Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 572.75,
+      "price": 572.91,
       "previousClose": 578.35,
-      "change": -5.6,
-      "changePercent": -0.9683,
+      "change": -5.44,
+      "changePercent": -0.9406,
       "currency": "USD",
       "asOf": "2026-08-31T19:55:00Z",
       "error": null
