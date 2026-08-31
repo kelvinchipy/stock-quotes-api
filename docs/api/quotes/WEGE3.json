@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-31T19:30:30Z",
+  "generatedAt": "2026-08-31T19:34:00Z",
   "symbol": "WEGE3",
   "name": "WEG ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 50.01,
+  "price": 50.0,
   "previousClose": 50.03,
-  "change": -0.02,
-  "changePercent": -0.04,
+  "change": -0.03,
+  "changePercent": -0.06,
   "currency": "BRL",
   "asOf": "2026-08-31T19:15:00Z",
   "error": null
