@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:31:05Z",
+  "generatedAt": "2026-09-01T20:35:42Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -152,10 +152,10 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 176.94,
+      "price": 177.16,
       "previousClose": 174.68,
-      "change": 2.26,
-      "changePercent": 1.2938,
+      "change": 2.48,
+      "changePercent": 1.4197,
       "currency": "BRL",
       "asOf": "2026-09-01T19:50:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.155,
+      "price": 5.1533,
       "previousClose": 5.1837,
-      "change": -0.0287,
-      "changePercent": -0.5537,
+      "change": -0.0304,
+      "changePercent": -0.5865,
       "currency": "BRL",
-      "asOf": "2026-09-01T20:30:00Z",
+      "asOf": "2026-09-01T20:35:00Z",
       "error": null
     },
     {
