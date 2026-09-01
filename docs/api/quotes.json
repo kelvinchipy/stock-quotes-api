@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:55:42Z",
+  "generatedAt": "2026-09-01T03:00:57Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -400,9 +400,9 @@
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 5.1823,
-      "previousClose": 5.1847,
-      "change": -0.0024,
-      "changePercent": -0.0463,
+      "previousClose": 5.1837,
+      "change": -0.0014,
+      "changePercent": -0.027,
       "currency": "BRL",
       "asOf": "2026-09-01T02:40:00Z",
       "error": null
