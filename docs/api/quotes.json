@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T02:22:17Z",
+  "generatedAt": "2026-09-01T02:25:54Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -256,10 +256,10 @@
       "name": "MercadoLibre Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 1936.0,
+      "price": 1935.48,
       "previousClose": 1962.01,
-      "change": -26.01,
-      "changePercent": -1.3257,
+      "change": -26.53,
+      "changePercent": -1.3522,
       "currency": "USD",
       "asOf": "2026-08-31T19:55:00Z",
       "error": null
@@ -400,9 +400,9 @@
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 5.1823,
-      "previousClose": 5.1836,
-      "change": -0.0013,
-      "changePercent": -0.0251,
+      "previousClose": 5.1847,
+      "change": -0.0024,
+      "changePercent": -0.0463,
       "currency": "BRL",
       "asOf": "2026-09-01T01:15:00Z",
       "error": null
