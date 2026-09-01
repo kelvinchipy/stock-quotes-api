@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-01T19:00:56Z",
+  "generatedAt": "2026-09-01T19:05:41Z",
   "symbol": "META",
   "name": "Meta Platforms Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 577.425,
+  "price": 577.0,
   "previousClose": 572.0,
-  "change": 5.425,
-  "changePercent": 0.9484,
+  "change": 5.0,
+  "changePercent": 0.8741,
   "currency": "USD",
-  "asOf": "2026-09-01T19:00:00Z",
+  "asOf": "2026-09-01T19:05:00Z",
   "error": null
 }
