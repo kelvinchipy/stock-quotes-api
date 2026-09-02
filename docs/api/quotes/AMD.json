@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-02T19:45:43Z",
+  "generatedAt": "2026-09-02T19:50:46Z",
   "symbol": "AMD",
   "name": "Advanced Micro Devices Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 456.26,
+  "price": 456.0645,
   "previousClose": 459.5,
-  "change": -3.24,
-  "changePercent": -0.7051,
+  "change": -3.4355,
+  "changePercent": -0.7477,
   "currency": "USD",
-  "asOf": "2026-09-02T19:45:00Z",
+  "asOf": "2026-09-02T19:50:00Z",
   "error": null
 }
