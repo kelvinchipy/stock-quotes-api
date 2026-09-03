@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-03T14:45:35Z",
+  "generatedAt": "2026-09-03T14:50:35Z",
   "symbol": "BBDC3",
   "name": "Bradesco ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 15.61,
+  "price": 15.59,
   "previousClose": 15.58,
-  "change": 0.03,
-  "changePercent": 0.1926,
+  "change": 0.01,
+  "changePercent": 0.0642,
   "currency": "BRL",
-  "asOf": "2026-09-03T14:30:00Z",
+  "asOf": "2026-09-03T14:35:00Z",
   "error": null
 }
