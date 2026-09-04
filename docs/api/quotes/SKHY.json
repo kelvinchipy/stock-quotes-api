@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T18:49:45Z",
+  "generatedAt": "2026-09-04T18:50:44Z",
   "symbol": "SKHY",
   "name": "SKHY (verificar ativo exato após 1ª execução)",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 174.3,
+  "price": 174.415,
   "previousClose": 162.62,
-  "change": 11.68,
-  "changePercent": 7.1824,
+  "change": 11.795,
+  "changePercent": 7.2531,
   "currency": "USD",
-  "asOf": "2026-09-04T18:45:00Z",
+  "asOf": "2026-09-04T18:50:00Z",
   "error": null
 }
