@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T16:10:42Z",
+  "generatedAt": "2026-09-04T16:15:38Z",
   "symbol": "NVDA",
   "name": "NVIDIA Corp.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 231.225,
+  "price": 231.15,
   "previousClose": 229.622,
-  "change": 1.603,
-  "changePercent": 0.6981,
+  "change": 1.528,
+  "changePercent": 0.6654,
   "currency": "USD",
-  "asOf": "2026-09-04T16:10:00Z",
+  "asOf": "2026-09-04T16:15:00Z",
   "error": null
 }
