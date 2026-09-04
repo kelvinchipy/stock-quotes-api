@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-04T13:17:48Z",
+  "generatedAt": "2026-09-04T13:20:38Z",
   "symbol": "GRND3",
   "name": "Grendene ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 3.66,
-  "previousClose": 3.68,
-  "change": -0.02,
-  "changePercent": -0.5435,
+  "price": 3.71,
+  "previousClose": 3.66,
+  "change": 0.05,
+  "changePercent": 1.3661,
   "currency": "BRL",
-  "asOf": "2026-09-03T19:50:00Z",
+  "asOf": "2026-09-04T13:05:00Z",
   "error": null
 }
