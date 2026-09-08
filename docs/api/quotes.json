@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T00:51:36Z",
+  "generatedAt": "2026-09-08T00:56:13Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 181.94,
+      "price": 182.02,
       "previousClose": 182.25,
-      "change": -0.31,
-      "changePercent": -0.1701,
+      "change": -0.23,
+      "changePercent": -0.1262,
       "currency": "BRL",
-      "asOf": "2026-09-07T20:00:00Z",
+      "asOf": "2026-09-04T19:45:00Z",
       "error": null
     },
     {
@@ -178,12 +178,12 @@
       "name": "Bradesco ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 15.81,
+      "price": 15.75,
       "previousClose": 15.67,
-      "change": 0.14,
-      "changePercent": 0.8934,
+      "change": 0.08,
+      "changePercent": 0.5105,
       "currency": "BRL",
-      "asOf": "2026-09-07T20:00:00Z",
+      "asOf": "2026-09-04T19:45:00Z",
       "error": null
     },
     {
