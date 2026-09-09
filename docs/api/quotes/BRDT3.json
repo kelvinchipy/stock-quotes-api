@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:25:28Z",
+  "generatedAt": "2026-09-09T22:30:37Z",
   "symbol": "BRDT3",
   "name": "BR Distribuidora ON (ticker antigo — ver VBBR3)",
   "market": "B3",
@@ -10,5 +10,5 @@
   "changePercent": null,
   "currency": null,
   "asOf": null,
-  "error": "YFRateLimitError: Too Many Requests. Rate limited. Try after a while."
+  "error": "RuntimeError: sem dados retornados pelo Yahoo Finance"
 }
