@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:20:50Z",
+  "generatedAt": "2026-09-09T22:25:44Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -119,7 +119,7 @@
       "changePercent": null,
       "currency": null,
       "asOf": null,
-      "error": "RuntimeError: sem dados retornados pelo Yahoo Finance"
+      "error": "YFRateLimitError: Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "ENEV3",
