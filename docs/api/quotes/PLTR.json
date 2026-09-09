@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-09T18:43:06Z",
+  "generatedAt": "2026-09-09T18:45:50Z",
   "symbol": "PLTR",
   "name": "Palantir Technologies Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 170.25,
+  "price": 170.4599,
   "previousClose": 170.62,
-  "change": -0.37,
-  "changePercent": -0.2169,
+  "change": -0.1601,
+  "changePercent": -0.0938,
   "currency": "USD",
-  "asOf": "2026-09-09T18:40:00Z",
+  "asOf": "2026-09-09T18:45:00Z",
   "error": null
 }
