@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T20:31:06Z",
+  "generatedAt": "2026-09-09T20:33:59Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -218,9 +218,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 1.19,
-      "previousClose": 1.23,
-      "change": -0.04,
-      "changePercent": -3.252,
+      "previousClose": 1.2,
+      "change": -0.01,
+      "changePercent": -0.8333,
       "currency": "BRL",
       "asOf": "2026-09-09T19:50:00Z",
       "error": null
