@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-10T15:30:48Z",
+  "generatedAt": "2026-09-10T15:35:41Z",
   "symbol": "XOM",
   "name": "Exxon Mobil Corp.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 164.38,
+  "price": 164.6262,
   "previousClose": 164.9,
-  "change": -0.52,
-  "changePercent": -0.3153,
+  "change": -0.2738,
+  "changePercent": -0.166,
   "currency": "USD",
-  "asOf": "2026-09-10T15:30:00Z",
+  "asOf": "2026-09-10T15:35:00Z",
   "error": null
 }
