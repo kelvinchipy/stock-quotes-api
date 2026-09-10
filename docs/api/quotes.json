@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T13:11:09Z",
+  "generatedAt": "2026-09-10T13:15:59Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 60.9,
-      "previousClose": 62.32,
-      "change": -1.42,
-      "changePercent": -2.2786,
+      "price": 60.88,
+      "previousClose": 60.9,
+      "change": -0.02,
+      "changePercent": -0.0328,
       "currency": "BRL",
-      "asOf": "2026-09-09T19:50:00Z",
+      "asOf": "2026-09-10T13:00:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.1365,
+      "price": 5.1396,
       "previousClose": 5.1051,
-      "change": 0.0314,
-      "changePercent": 0.6151,
+      "change": 0.0345,
+      "changePercent": 0.6758,
       "currency": "BRL",
-      "asOf": "2026-09-10T13:10:00Z",
+      "asOf": "2026-09-10T13:15:00Z",
       "error": null
     },
     {
