@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-11T17:25:38Z",
+  "generatedAt": "2026-09-11T17:30:42Z",
   "symbol": "MELI",
   "name": "MercadoLibre Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 1909.38,
+  "price": 1906.605,
   "previousClose": 1906.0,
-  "change": 3.38,
-  "changePercent": 0.1773,
+  "change": 0.605,
+  "changePercent": 0.0317,
   "currency": "USD",
-  "asOf": "2026-09-11T17:25:00Z",
+  "asOf": "2026-09-11T17:30:00Z",
   "error": null
 }
