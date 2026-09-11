@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-11T16:05:31Z",
+  "generatedAt": "2026-09-11T16:10:36Z",
   "symbol": "PCIP11",
   "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
   "market": "FII",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 73.15,
+  "price": 73.09,
   "previousClose": 73.04,
-  "change": 0.11,
-  "changePercent": 0.1506,
+  "change": 0.05,
+  "changePercent": 0.0684,
   "currency": "BRL",
-  "asOf": "2026-09-11T15:45:00Z",
+  "asOf": "2026-09-11T15:55:00Z",
   "error": null
 }
