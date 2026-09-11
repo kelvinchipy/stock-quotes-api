@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-11T14:00:53Z",
+  "generatedAt": "2026-09-11T14:05:32Z",
   "symbol": "NKE",
   "name": "Nike Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 36.69,
+  "price": 36.725,
   "previousClose": 36.6171,
-  "change": 0.0729,
-  "changePercent": 0.1991,
+  "change": 0.1079,
+  "changePercent": 0.2947,
   "currency": "USD",
-  "asOf": "2026-09-11T14:00:00Z",
+  "asOf": "2026-09-11T14:05:00Z",
   "error": null
 }
