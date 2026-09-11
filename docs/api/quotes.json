@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:05:45Z",
+  "generatedAt": "2026-09-11T21:10:45Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -153,9 +153,9 @@
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 184.24,
-      "previousClose": 185.4,
-      "change": -1.16,
-      "changePercent": -0.6257,
+      "previousClose": 185.21,
+      "change": -0.97,
+      "changePercent": -0.5237,
       "currency": "BRL",
       "asOf": "2026-09-11T19:50:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.1197,
+      "price": 5.1202,
       "previousClose": 5.1033,
-      "change": 0.0164,
-      "changePercent": 0.3214,
+      "change": 0.0169,
+      "changePercent": 0.3312,
       "currency": "BRL",
-      "asOf": "2026-09-11T21:05:00Z",
+      "asOf": "2026-09-11T21:10:00Z",
       "error": null
     },
     {
