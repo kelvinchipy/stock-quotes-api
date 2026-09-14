@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-14T18:35:49Z",
+  "generatedAt": "2026-09-14T18:40:55Z",
   "symbol": "USDBRL",
   "name": "Dólar americano / Real (câmbio)",
   "market": "Câmbio",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 5.146,
+  "price": 5.1456,
   "previousClose": 5.1262,
-  "change": 0.0198,
-  "changePercent": 0.3862,
+  "change": 0.0194,
+  "changePercent": 0.3784,
   "currency": "BRL",
-  "asOf": "2026-09-14T18:35:00Z",
+  "asOf": "2026-09-14T18:40:00Z",
   "error": null
 }
