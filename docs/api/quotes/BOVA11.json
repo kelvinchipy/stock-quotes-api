@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-15T20:06:35Z",
+  "generatedAt": "2026-09-15T20:10:29Z",
   "symbol": "BOVA11",
   "name": "iShares Ibovespa (ETF)",
   "market": "ETF",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 183.87,
+  "price": 183.78,
   "previousClose": 183.27,
-  "change": 0.6,
-  "changePercent": 0.3274,
+  "change": 0.51,
+  "changePercent": 0.2783,
   "currency": "BRL",
   "asOf": "2026-09-15T19:50:00Z",
   "error": null
