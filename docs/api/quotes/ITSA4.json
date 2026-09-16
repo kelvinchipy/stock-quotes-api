@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-16T18:45:31Z",
+  "generatedAt": "2026-09-16T18:50:26Z",
   "symbol": "ITSA4",
   "name": "Itaúsa PN",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 14.17,
+  "price": 14.13,
   "previousClose": 14.14,
-  "change": 0.03,
-  "changePercent": 0.2122,
+  "change": -0.01,
+  "changePercent": -0.0707,
   "currency": "BRL",
-  "asOf": "2026-09-16T18:30:00Z",
+  "asOf": "2026-09-16T18:35:00Z",
   "error": null
 }
