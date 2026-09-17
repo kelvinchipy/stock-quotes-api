@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-17T13:17:04Z",
+  "generatedAt": "2026-09-17T13:20:30Z",
   "symbol": "ENEV3",
   "name": "Eneva ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 27.0,
-  "previousClose": 26.98,
-  "change": 0.02,
-  "changePercent": 0.0741,
+  "price": 27.08,
+  "previousClose": 27.0,
+  "change": 0.08,
+  "changePercent": 0.2963,
   "currency": "BRL",
-  "asOf": "2026-09-16T19:55:00Z",
+  "asOf": "2026-09-17T13:05:00Z",
   "error": null
 }
