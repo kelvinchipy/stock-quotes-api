@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:35:49Z",
+  "generatedAt": "2026-09-18T20:40:47Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -101,9 +101,9 @@
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 72.55,
-      "previousClose": 72.61,
-      "change": -0.06,
-      "changePercent": -0.0826,
+      "previousClose": 72.84,
+      "change": -0.29,
+      "changePercent": -0.3981,
       "currency": "BRL",
       "asOf": "2026-09-18T19:45:00Z",
       "error": null
@@ -140,9 +140,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 11.33,
-      "previousClose": 11.69,
-      "change": -0.36,
-      "changePercent": -3.0796,
+      "previousClose": 11.7,
+      "change": -0.37,
+      "changePercent": -3.1624,
       "currency": "BRL",
       "asOf": "2026-09-18T19:45:00Z",
       "error": null
@@ -404,7 +404,7 @@
       "change": 0.0174,
       "changePercent": 0.3396,
       "currency": "BRL",
-      "asOf": "2026-09-18T20:35:00Z",
+      "asOf": "2026-09-18T20:40:00Z",
       "error": null
     },
     {
