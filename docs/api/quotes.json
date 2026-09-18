@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:31:06Z",
+  "generatedAt": "2026-09-18T20:35:49Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -75,9 +75,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 3.69,
-      "previousClose": 3.67,
-      "change": 0.02,
-      "changePercent": 0.545,
+      "previousClose": 3.65,
+      "change": 0.04,
+      "changePercent": 1.0959,
       "currency": "BRL",
       "asOf": "2026-09-18T19:45:00Z",
       "error": null
@@ -152,10 +152,10 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 182.41,
+      "price": 182.37,
       "previousClose": 183.33,
-      "change": -0.92,
-      "changePercent": -0.5018,
+      "change": -0.96,
+      "changePercent": -0.5236,
       "currency": "BRL",
       "asOf": "2026-09-18T19:45:00Z",
       "error": null
@@ -205,9 +205,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 5.87,
-      "previousClose": 5.77,
-      "change": 0.1,
-      "changePercent": 1.7331,
+      "previousClose": 5.79,
+      "change": 0.08,
+      "changePercent": 1.3817,
       "currency": "BRL",
       "asOf": "2026-09-18T19:45:00Z",
       "error": null
@@ -404,7 +404,7 @@
       "change": 0.0174,
       "changePercent": 0.3396,
       "currency": "BRL",
-      "asOf": "2026-09-18T20:30:00Z",
+      "asOf": "2026-09-18T20:35:00Z",
       "error": null
     },
     {
