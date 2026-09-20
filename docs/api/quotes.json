@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T04:30:51Z",
+  "generatedAt": "2026-09-20T04:36:01Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -438,12 +438,12 @@
       "name": "Microsoft Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 493.46,
+      "price": 493.78,
       "previousClose": 496.9,
-      "change": -3.44,
-      "changePercent": -0.6923,
+      "change": -3.12,
+      "changePercent": -0.6279,
       "currency": "USD",
-      "asOf": "2026-09-18T19:55:00Z",
+      "asOf": "2026-09-18T04:00:00Z",
       "error": null
     },
     {
@@ -464,12 +464,12 @@
       "name": "Meta Platforms Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 665.52,
+      "price": 665.75,
       "previousClose": 681.58,
-      "change": -16.06,
-      "changePercent": -2.3563,
+      "change": -15.83,
+      "changePercent": -2.3225,
       "currency": "USD",
-      "asOf": "2026-09-18T19:55:00Z",
+      "asOf": "2026-09-18T04:00:00Z",
       "error": null
     },
     {
