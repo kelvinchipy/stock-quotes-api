@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-21T18:05:38Z",
+  "generatedAt": "2026-09-21T18:10:38Z",
   "symbol": "TSLA",
   "name": "Tesla Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 374.18,
+  "price": 374.43,
   "previousClose": 364.18,
-  "change": 10.0,
-  "changePercent": 2.7459,
+  "change": 10.25,
+  "changePercent": 2.8145,
   "currency": "USD",
-  "asOf": "2026-09-21T18:05:00Z",
+  "asOf": "2026-09-21T18:10:00Z",
   "error": null
 }
