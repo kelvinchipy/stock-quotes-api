@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T20:00:59Z",
+  "generatedAt": "2026-09-22T20:05:43Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -14,7 +14,7 @@
       "change": 0.3,
       "changePercent": 0.4135,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -22,12 +22,12 @@
       "name": "Itaúsa PN",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 14.4,
+      "price": 14.41,
       "previousClose": 14.38,
-      "change": 0.02,
-      "changePercent": 0.1391,
+      "change": 0.03,
+      "changePercent": 0.2086,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -35,12 +35,12 @@
       "name": "Engie Brasil Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 30.67,
+      "price": 30.68,
       "previousClose": 30.4,
-      "change": 0.27,
-      "changePercent": 0.8882,
+      "change": 0.28,
+      "changePercent": 0.9211,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 63.31,
+      "price": 63.35,
       "previousClose": 63.5,
-      "change": -0.19,
-      "changePercent": -0.2992,
+      "change": -0.15,
+      "changePercent": -0.2362,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -61,12 +61,12 @@
       "name": "WEG ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 51.92,
+      "price": 51.87,
       "previousClose": 51.04,
-      "change": 0.88,
-      "changePercent": 1.7241,
+      "change": 0.83,
+      "changePercent": 1.6262,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -74,12 +74,12 @@
       "name": "Grendene ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 3.76,
+      "price": 3.77,
       "previousClose": 3.72,
-      "change": 0.04,
-      "changePercent": 1.0753,
+      "change": 0.05,
+      "changePercent": 1.3441,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -92,7 +92,7 @@
       "change": 0.53,
       "changePercent": 1.3628,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -100,12 +100,12 @@
       "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 74.45,
+      "price": 74.32,
       "previousClose": 73.98,
-      "change": 0.47,
-      "changePercent": 0.6353,
+      "change": 0.34,
+      "changePercent": 0.4596,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -126,12 +126,12 @@
       "name": "Eneva ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 27.77,
+      "price": 27.76,
       "previousClose": 28.03,
-      "change": -0.26,
-      "changePercent": -0.9276,
+      "change": -0.27,
+      "changePercent": -0.9633,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -139,12 +139,12 @@
       "name": "Metalúrgica Gerdau PN",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 11.47,
+      "price": 11.48,
       "previousClose": 11.46,
-      "change": 0.01,
-      "changePercent": 0.0873,
+      "change": 0.02,
+      "changePercent": 0.1745,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 184.73,
+      "price": 184.79,
       "previousClose": 184.2,
-      "change": 0.53,
-      "changePercent": 0.2877,
+      "change": 0.59,
+      "changePercent": 0.3203,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -170,7 +170,7 @@
       "change": 0.09,
       "changePercent": 0.1166,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -178,12 +178,12 @@
       "name": "Bradesco ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 16.28,
+      "price": 16.27,
       "previousClose": 16.06,
-      "change": 0.22,
-      "changePercent": 1.3699,
+      "change": 0.21,
+      "changePercent": 1.3076,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -191,12 +191,12 @@
       "name": "Vibra Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 39.54,
+      "price": 39.6,
       "previousClose": 39.56,
-      "change": -0.02,
-      "changePercent": -0.0506,
+      "change": 0.04,
+      "changePercent": 0.1011,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "change": -0.05,
       "changePercent": -0.8375,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "change": -0.12,
       "changePercent": -8.8235,
       "currency": "BRL",
-      "asOf": "2026-09-22T19:40:00Z",
+      "asOf": "2026-09-22T19:45:00Z",
       "error": null
     },
     {
@@ -243,10 +243,10 @@
       "name": "Nike Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 36.095,
+      "price": 36.1,
       "previousClose": 36.1601,
-      "change": -0.0651,
-      "changePercent": -0.18,
+      "change": -0.0601,
+      "changePercent": -0.1662,
       "currency": "USD",
       "asOf": "2026-09-22T19:55:00Z",
       "error": null
@@ -374,9 +374,9 @@
       "market": "Índice",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 7764.27,
-      "previousClose": 7764.2202,
-      "change": 0.0498,
-      "changePercent": 0.0006,
+      "previousClose": 7764.7,
+      "change": -0.43,
+      "changePercent": -0.0055,
       "currency": "USD",
       "asOf": "2026-09-22T19:55:00Z",
       "error": null
@@ -399,10 +399,10 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.102,
+      "price": 5.101,
       "previousClose": 5.1111,
-      "change": -0.0091,
-      "changePercent": -0.178,
+      "change": -0.0101,
+      "changePercent": -0.1976,
       "currency": "BRL",
       "asOf": "2026-09-22T20:00:00Z",
       "error": null
@@ -425,10 +425,10 @@
       "name": "Berkshire Hathaway Cl. B",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 503.7025,
+      "price": 503.61,
       "previousClose": 502.8601,
-      "change": 0.8424,
-      "changePercent": 0.1675,
+      "change": 0.7499,
+      "changePercent": 0.1491,
       "currency": "USD",
       "asOf": "2026-09-22T19:55:00Z",
       "error": null
