@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T20:37:52Z",
+  "generatedAt": "2026-09-23T20:40:44Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -88,9 +88,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 39.77,
-      "previousClose": 39.39,
-      "change": 0.38,
-      "changePercent": 0.9647,
+      "previousClose": 39.48,
+      "change": 0.29,
+      "changePercent": 0.7346,
       "currency": "BRL",
       "asOf": "2026-09-23T19:50:00Z",
       "error": null
@@ -119,7 +119,7 @@
       "changePercent": null,
       "currency": null,
       "asOf": null,
-      "error": "RuntimeError: sem dados retornados pelo Yahoo Finance"
+      "error": "YFRateLimitError: Too Many Requests. Rate limited. Try after a while."
     },
     {
       "symbol": "ENEV3",
@@ -192,9 +192,9 @@
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 39.83,
-      "previousClose": 39.61,
-      "change": 0.22,
-      "changePercent": 0.5554,
+      "previousClose": 39.7,
+      "change": 0.13,
+      "changePercent": 0.3275,
       "currency": "BRL",
       "asOf": "2026-09-23T19:50:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.1669,
+      "price": 5.1657,
       "previousClose": 5.1015,
-      "change": 0.0654,
-      "changePercent": 1.282,
+      "change": 0.0642,
+      "changePercent": 1.2585,
       "currency": "BRL",
-      "asOf": "2026-09-23T20:35:00Z",
+      "asOf": "2026-09-23T20:40:00Z",
       "error": null
     },
     {
