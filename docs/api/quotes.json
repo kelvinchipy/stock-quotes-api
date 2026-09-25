@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:15:59Z",
+  "generatedAt": "2026-09-25T00:20:43Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 180.87,
+      "price": 181.37,
       "previousClose": 182.86,
-      "change": -1.99,
-      "changePercent": -1.0883,
+      "change": -1.49,
+      "changePercent": -0.8148,
       "currency": "BRL",
-      "asOf": "2026-09-24T03:00:00Z",
+      "asOf": "2026-09-24T19:50:00Z",
       "error": null
     },
     {
