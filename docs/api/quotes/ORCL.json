@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-25T18:45:49Z",
+  "generatedAt": "2026-09-25T18:50:54Z",
   "symbol": "ORCL",
   "name": "Oracle Corp.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 138.415,
+  "price": 138.29,
   "previousClose": 139.79,
-  "change": -1.375,
-  "changePercent": -0.9836,
+  "change": -1.5,
+  "changePercent": -1.073,
   "currency": "USD",
-  "asOf": "2026-09-25T18:45:00Z",
+  "asOf": "2026-09-25T18:50:00Z",
   "error": null
 }
