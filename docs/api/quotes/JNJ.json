@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-28T15:00:49Z",
+  "generatedAt": "2026-09-28T15:05:48Z",
   "symbol": "JNJ",
   "name": "Johnson & Johnson",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 272.19,
+  "price": 272.6,
   "previousClose": 272.0,
-  "change": 0.19,
-  "changePercent": 0.0699,
+  "change": 0.6,
+  "changePercent": 0.2206,
   "currency": "USD",
-  "asOf": "2026-09-28T15:00:00Z",
+  "asOf": "2026-09-28T15:05:00Z",
   "error": null
 }
