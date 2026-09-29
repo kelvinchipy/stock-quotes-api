@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-29T19:50:33Z",
+  "generatedAt": "2026-09-29T19:55:34Z",
   "symbol": "VBBR3",
   "name": "Vibra Energia ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 37.97,
+  "price": 37.92,
   "previousClose": 37.95,
-  "change": 0.02,
-  "changePercent": 0.0527,
+  "change": -0.03,
+  "changePercent": -0.0791,
   "currency": "BRL",
-  "asOf": "2026-09-29T19:35:00Z",
+  "asOf": "2026-09-29T19:40:00Z",
   "error": null
 }
