@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-29T17:45:36Z",
+  "generatedAt": "2026-09-29T17:50:38Z",
   "symbol": "GLD",
   "name": "SPDR Gold Shares (ETF)",
   "market": "ETF",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 380.06,
+  "price": 380.05,
   "previousClose": 378.31,
-  "change": 1.75,
-  "changePercent": 0.4626,
+  "change": 1.74,
+  "changePercent": 0.4599,
   "currency": "USD",
-  "asOf": "2026-09-29T17:45:00Z",
+  "asOf": "2026-09-29T17:50:00Z",
   "error": null
 }
