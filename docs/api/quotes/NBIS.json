@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-30T14:15:38Z",
+  "generatedAt": "2026-09-30T14:20:36Z",
   "symbol": "NBIS",
   "name": "Nebius Group N.V.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 240.46,
+  "price": 240.0775,
   "previousClose": 240.12,
-  "change": 0.34,
-  "changePercent": 0.1416,
+  "change": -0.0425,
+  "changePercent": -0.0177,
   "currency": "USD",
-  "asOf": "2026-09-30T14:15:00Z",
+  "asOf": "2026-09-30T14:20:00Z",
   "error": null
 }
