@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-01T17:05:28Z",
+  "generatedAt": "2026-10-01T17:10:26Z",
   "symbol": "VALE3",
   "name": "Vale ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 69.45,
+  "price": 69.4,
   "previousClose": 69.74,
-  "change": -0.29,
-  "changePercent": -0.4158,
+  "change": -0.34,
+  "changePercent": -0.4875,
   "currency": "BRL",
-  "asOf": "2026-10-01T16:50:00Z",
+  "asOf": "2026-10-01T16:55:00Z",
   "error": null
 }
