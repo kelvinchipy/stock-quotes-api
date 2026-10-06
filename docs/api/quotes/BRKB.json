@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-06T13:25:41Z",
+  "generatedAt": "2026-10-06T13:30:47Z",
   "symbol": "BRKB",
   "name": "Berkshire Hathaway Cl. B",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 504.35,
+  "price": 504.15,
   "previousClose": 504.41,
-  "change": -0.06,
-  "changePercent": -0.0119,
+  "change": -0.26,
+  "changePercent": -0.0515,
   "currency": "USD",
-  "asOf": "2026-10-05T19:55:00Z",
+  "asOf": "2026-10-06T13:30:00Z",
   "error": null
 }
