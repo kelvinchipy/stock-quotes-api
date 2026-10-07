@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T20:00:54Z",
+  "generatedAt": "2026-10-07T20:05:45Z",
   "symbol": "US500",
   "name": "S&P 500 (índice)",
   "market": "Índice",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "price": 7800.2598,
-  "previousClose": 7819.8301,
-  "change": -19.5703,
-  "changePercent": -0.2503,
+  "previousClose": 7818.93,
+  "change": -18.6702,
+  "changePercent": -0.2388,
   "currency": "USD",
   "asOf": "2026-10-07T19:55:00Z",
   "error": null
