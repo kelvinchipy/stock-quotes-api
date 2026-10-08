@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-08T13:30:31Z",
+  "generatedAt": "2026-10-08T13:35:23Z",
   "symbol": "EGIE3",
   "name": "Engie Brasil Energia ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 31.42,
+  "price": 31.4,
   "previousClose": 31.29,
-  "change": 0.13,
-  "changePercent": 0.4155,
+  "change": 0.11,
+  "changePercent": 0.3515,
   "currency": "BRL",
-  "asOf": "2026-10-08T13:15:00Z",
+  "asOf": "2026-10-08T13:20:00Z",
   "error": null
 }
