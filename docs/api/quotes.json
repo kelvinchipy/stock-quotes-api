@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T08:20:46Z",
+  "generatedAt": "2026-10-09T08:25:46Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -243,10 +243,10 @@
       "name": "Nike Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 34.745,
+      "price": 34.74,
       "previousClose": 34.77,
-      "change": -0.025,
-      "changePercent": -0.0719,
+      "change": -0.03,
+      "changePercent": -0.0863,
       "currency": "USD",
       "asOf": "2026-10-08T19:55:00Z",
       "error": null
@@ -257,9 +257,9 @@
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 1855.28,
-      "previousClose": 1872.78,
-      "change": -17.5,
-      "changePercent": -0.9344,
+      "previousClose": 1856.66,
+      "change": -1.38,
+      "changePercent": -0.0743,
       "currency": "USD",
       "asOf": "2026-10-08T19:55:00Z",
       "error": null
