@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:44:40Z",
+  "generatedAt": "2026-10-13T00:45:53Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -22,12 +22,12 @@
       "name": "Itaúsa PN",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 16.15,
+      "price": 16.31,
       "previousClose": 16.05,
-      "change": 0.1,
-      "changePercent": 0.6231,
+      "change": 0.26,
+      "changePercent": 1.6199,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -35,12 +35,12 @@
       "name": "Engie Brasil Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 31.56,
+      "price": 31.73,
       "previousClose": 31.79,
-      "change": -0.23,
-      "changePercent": -0.7235,
+      "change": -0.06,
+      "changePercent": -0.1887,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 70.0,
+      "price": 70.19,
       "previousClose": 70.47,
-      "change": -0.47,
-      "changePercent": -0.667,
+      "change": -0.28,
+      "changePercent": -0.3973,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -74,12 +74,12 @@
       "name": "Grendene ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 4.66,
+      "price": 4.7,
       "previousClose": 4.54,
-      "change": 0.12,
-      "changePercent": 2.6432,
+      "change": 0.16,
+      "changePercent": 3.5242,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -105,7 +105,7 @@
       "change": 1.26,
       "changePercent": 1.599,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -126,12 +126,12 @@
       "name": "Eneva ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 31.53,
+      "price": 31.41,
       "previousClose": 30.81,
-      "change": 0.72,
-      "changePercent": 2.3369,
+      "change": 0.6,
+      "changePercent": 1.9474,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -139,12 +139,12 @@
       "name": "Metalúrgica Gerdau PN",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 11.53,
+      "price": 11.58,
       "previousClose": 11.2,
-      "change": 0.33,
-      "changePercent": 2.9464,
+      "change": 0.38,
+      "changePercent": 3.3929,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 205.79,
+      "price": 205.55,
       "previousClose": 203.08,
-      "change": 2.71,
-      "changePercent": 1.3344,
+      "change": 2.47,
+      "changePercent": 1.2163,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -170,7 +170,7 @@
       "change": 0.0,
       "changePercent": 0.0,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -178,12 +178,12 @@
       "name": "Bradesco ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 18.98,
+      "price": 19.02,
       "previousClose": 18.95,
-      "change": 0.03,
-      "changePercent": 0.1583,
+      "change": 0.07,
+      "changePercent": 0.3694,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "change": 1.97,
       "changePercent": 19.2195,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "change": 0.08,
       "changePercent": 7.5472,
       "currency": "BRL",
-      "asOf": "2026-10-09T19:50:00Z",
+      "asOf": "2026-10-12T20:00:00Z",
       "error": null
     },
     {
