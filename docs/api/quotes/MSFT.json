@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-14T18:50:47Z",
+  "generatedAt": "2026-10-14T18:55:43Z",
   "symbol": "MSFT",
   "name": "Microsoft Corp.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 534.19,
+  "price": 534.0842,
   "previousClose": 543.45,
-  "change": -9.26,
-  "changePercent": -1.7039,
+  "change": -9.3658,
+  "changePercent": -1.7234,
   "currency": "USD",
-  "asOf": "2026-10-14T18:50:00Z",
+  "asOf": "2026-10-14T18:55:00Z",
   "error": null
 }
