@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T21:20:56Z",
+  "generatedAt": "2026-10-14T21:25:51Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.0477,
+      "price": 5.0507,
       "previousClose": 5.0264,
-      "change": 0.0213,
-      "changePercent": 0.4238,
+      "change": 0.0243,
+      "changePercent": 0.4834,
       "currency": "BRL",
-      "asOf": "2026-10-14T21:20:00Z",
+      "asOf": "2026-10-14T21:25:00Z",
       "error": null
     },
     {
@@ -425,10 +425,10 @@
       "name": "Berkshire Hathaway Cl. B",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 526.755,
+      "price": 526.79,
       "previousClose": 520.63,
-      "change": 6.125,
-      "changePercent": 1.1765,
+      "change": 6.16,
+      "changePercent": 1.1832,
       "currency": "USD",
       "asOf": "2026-10-14T19:55:00Z",
       "error": null
