@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-15T16:35:31Z",
+  "generatedAt": "2026-10-15T16:40:32Z",
   "symbol": "GOAU4",
   "name": "Metalúrgica Gerdau PN",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 11.67,
+  "price": 11.65,
   "previousClose": 11.68,
-  "change": -0.01,
-  "changePercent": -0.0856,
+  "change": -0.03,
+  "changePercent": -0.2569,
   "currency": "BRL",
-  "asOf": "2026-10-15T16:20:00Z",
+  "asOf": "2026-10-15T16:25:00Z",
   "error": null
 }
