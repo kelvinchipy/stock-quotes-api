@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:05:48Z",
+  "generatedAt": "2026-10-20T20:10:47Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -9,12 +9,12 @@
       "name": "Vale ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 65.47,
+      "price": 65.45,
       "previousClose": 66.44,
-      "change": -0.97,
-      "changePercent": -1.46,
+      "change": -0.99,
+      "changePercent": -1.4901,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -22,12 +22,12 @@
       "name": "Itaúsa PN",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 15.77,
+      "price": 15.76,
       "previousClose": 15.44,
-      "change": 0.33,
-      "changePercent": 2.1373,
+      "change": 0.32,
+      "changePercent": 2.0725,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -35,12 +35,12 @@
       "name": "Engie Brasil Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 31.27,
+      "price": 31.26,
       "previousClose": 30.72,
-      "change": 0.55,
-      "changePercent": 1.7904,
+      "change": 0.54,
+      "changePercent": 1.7578,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 69.92,
+      "price": 69.94,
       "previousClose": 69.17,
-      "change": 0.75,
-      "changePercent": 1.0843,
+      "change": 0.77,
+      "changePercent": 1.1132,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -61,12 +61,12 @@
       "name": "WEG ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 48.69,
+      "price": 48.48,
       "previousClose": 47.62,
-      "change": 1.07,
-      "changePercent": 2.247,
+      "change": 0.86,
+      "changePercent": 1.806,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "change": 0.27,
       "changePercent": 5.9341,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -87,12 +87,12 @@
       "name": "Ultrapar Participações ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 39.81,
+      "price": 39.71,
       "previousClose": 39.16,
-      "change": 0.65,
-      "changePercent": 1.6599,
+      "change": 0.55,
+      "changePercent": 1.4045,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -100,12 +100,12 @@
       "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 81.85,
+      "price": 81.51,
       "previousClose": 81.11,
-      "change": 0.74,
-      "changePercent": 0.9123,
+      "change": 0.4,
+      "changePercent": 0.4932,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "change": 0.55,
       "changePercent": 1.7494,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -144,7 +144,7 @@
       "change": 0.27,
       "changePercent": 2.3216,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 204.92,
+      "price": 204.74,
       "previousClose": 201.91,
-      "change": 3.01,
-      "changePercent": 1.4908,
+      "change": 2.83,
+      "changePercent": 1.4016,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -165,12 +165,12 @@
       "name": "Kinea Fundo de Fundos FII",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 82.92,
+      "price": 82.93,
       "previousClose": 81.18,
-      "change": 1.74,
-      "changePercent": 2.1434,
+      "change": 1.75,
+      "changePercent": 2.1557,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -178,12 +178,12 @@
       "name": "Bradesco ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 18.26,
+      "price": 18.24,
       "previousClose": 17.82,
-      "change": 0.44,
-      "changePercent": 2.4691,
+      "change": 0.42,
+      "changePercent": 2.3569,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -191,12 +191,12 @@
       "name": "Vibra Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 36.49,
+      "price": 36.51,
       "previousClose": 36.2,
-      "change": 0.29,
-      "changePercent": 0.8011,
+      "change": 0.31,
+      "changePercent": 0.8563,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -204,12 +204,12 @@
       "name": "Magazine Luiza ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 13.48,
+      "price": 13.53,
       "previousClose": 11.83,
-      "change": 1.65,
-      "changePercent": 13.9476,
+      "change": 1.7,
+      "changePercent": 14.3702,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "change": -0.01,
       "changePercent": -0.9524,
       "currency": "BRL",
-      "asOf": "2026-10-20T19:45:00Z",
+      "asOf": "2026-10-20T19:50:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.0149,
+      "price": 5.0153,
       "previousClose": 5.0402,
-      "change": -0.0253,
-      "changePercent": -0.502,
+      "change": -0.0249,
+      "changePercent": -0.494,
       "currency": "BRL",
-      "asOf": "2026-10-20T20:05:00Z",
+      "asOf": "2026-10-20T20:10:00Z",
       "error": null
     },
     {
