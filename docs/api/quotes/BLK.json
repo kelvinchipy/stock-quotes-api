@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-20T17:35:40Z",
+  "generatedAt": "2026-10-20T17:40:50Z",
   "symbol": "BLK",
   "name": "BlackRock Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 1132.405,
+  "price": 1131.2,
   "previousClose": 1125.25,
-  "change": 7.155,
-  "changePercent": 0.6359,
+  "change": 5.95,
+  "changePercent": 0.5288,
   "currency": "USD",
-  "asOf": "2026-10-20T17:35:00Z",
+  "asOf": "2026-10-20T17:40:00Z",
   "error": null
 }
