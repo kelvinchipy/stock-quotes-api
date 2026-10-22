@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T10:35:41Z",
+  "generatedAt": "2026-10-22T10:40:52Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -257,9 +257,9 @@
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 1853.67,
-      "previousClose": 1855.0,
-      "change": -1.33,
-      "changePercent": -0.0717,
+      "previousClose": 1854.94,
+      "change": -1.27,
+      "changePercent": -0.0685,
       "currency": "USD",
       "asOf": "2026-10-21T19:55:00Z",
       "error": null
@@ -334,10 +334,10 @@
       "name": "Space Exploration Technologies Corp. (SpaceX)",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 159.27,
+      "price": 159.28,
       "previousClose": 156.7,
-      "change": 2.57,
-      "changePercent": 1.6401,
+      "change": 2.58,
+      "changePercent": 1.6465,
       "currency": "USD",
       "asOf": "2026-10-21T19:55:00Z",
       "error": null
