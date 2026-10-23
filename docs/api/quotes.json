@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T13:01:02Z",
+  "generatedAt": "2026-10-23T13:05:52Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -321,10 +321,10 @@
       "name": "Johnson & Johnson",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 267.71,
+      "price": 267.695,
       "previousClose": 268.0,
-      "change": -0.29,
-      "changePercent": -0.1082,
+      "change": -0.305,
+      "changePercent": -0.1138,
       "currency": "USD",
       "asOf": "2026-10-22T19:55:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.039,
+      "price": 5.0398,
       "previousClose": 5.0523,
-      "change": -0.0133,
-      "changePercent": -0.2632,
+      "change": -0.0125,
+      "changePercent": -0.2474,
       "currency": "BRL",
-      "asOf": "2026-10-23T12:55:00Z",
+      "asOf": "2026-10-23T13:05:00Z",
       "error": null
     },
     {
