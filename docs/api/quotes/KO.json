@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-02T20:10:40Z",
+  "generatedAt": "2026-11-02T20:15:44Z",
   "symbol": "KO",
   "name": "The Coca-Cola Co.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 96.17,
-  "previousClose": 94.2212,
-  "change": 1.9488,
-  "changePercent": 2.0683,
+  "price": 96.13,
+  "previousClose": 94.28,
+  "change": 1.85,
+  "changePercent": 1.9622,
   "currency": "USD",
-  "asOf": "2026-11-02T20:10:00Z",
+  "asOf": "2026-11-02T20:15:00Z",
   "error": null
 }
