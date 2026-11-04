@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T03:30:56Z",
+  "generatedAt": "2026-11-04T03:35:59Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 56.71,
+      "price": 55.68,
       "previousClose": 55.71,
-      "change": 1.0,
-      "changePercent": 1.795,
+      "change": -0.03,
+      "changePercent": -0.0538,
       "currency": "BRL",
-      "asOf": "2026-11-03T19:55:00Z",
+      "asOf": "2026-10-30T03:00:00Z",
       "error": null
     },
     {
