@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-05T14:25:55Z",
+  "generatedAt": "2026-11-05T14:30:53Z",
   "symbol": "INTC",
   "name": "Intel Corp.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 58.28,
-  "previousClose": 57.751,
-  "change": 0.529,
-  "changePercent": 0.916,
+  "price": 56.28,
+  "previousClose": 58.0445,
+  "change": -1.7645,
+  "changePercent": -3.0399,
   "currency": "USD",
-  "asOf": "2026-11-04T20:55:00Z",
+  "asOf": "2026-11-05T14:30:00Z",
   "error": null
 }
