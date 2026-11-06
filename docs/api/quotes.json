@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:35:49Z",
+  "generatedAt": "2026-11-06T02:41:03Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -230,10 +230,10 @@
       "name": "Nebius Group N.V.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 120.04,
+      "price": 120.145,
       "previousClose": 139.7,
-      "change": -19.66,
-      "changePercent": -14.073,
+      "change": -19.555,
+      "changePercent": -13.9979,
       "currency": "USD",
       "asOf": "2026-11-05T20:55:00Z",
       "error": null
@@ -400,9 +400,9 @@
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 5.5037,
-      "previousClose": 5.487,
-      "change": 0.0167,
-      "changePercent": 0.3044,
+      "previousClose": 5.5045,
+      "change": -0.0008,
+      "changePercent": -0.0145,
       "currency": "BRL",
       "asOf": "2026-11-06T02:30:00Z",
       "error": null
