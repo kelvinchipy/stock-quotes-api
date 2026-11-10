@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T21:00:59Z",
+  "generatedAt": "2026-11-10T21:05:47Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -347,10 +347,10 @@
       "name": "Exxon Mobil Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 164.44,
+      "price": 164.475,
       "previousClose": 164.69,
-      "change": -0.25,
-      "changePercent": -0.1518,
+      "change": -0.215,
+      "changePercent": -0.1305,
       "currency": "USD",
       "asOf": "2026-11-10T20:55:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.587,
+      "price": 5.5848,
       "previousClose": 5.5085,
-      "change": 0.0785,
-      "changePercent": 1.4251,
+      "change": 0.0763,
+      "changePercent": 1.3851,
       "currency": "BRL",
-      "asOf": "2026-11-10T21:00:00Z",
+      "asOf": "2026-11-10T21:05:00Z",
       "error": null
     },
     {
