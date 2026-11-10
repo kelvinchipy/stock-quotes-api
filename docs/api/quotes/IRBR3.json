@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-10T13:10:32Z",
+  "generatedAt": "2026-11-10T13:15:28Z",
   "symbol": "IRBR3",
   "name": "IRB Brasil RE ON",
   "market": "B3",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 58.67,
-  "previousClose": 57.87,
-  "change": 0.8,
-  "changePercent": 1.3824,
+  "price": 58.5,
+  "previousClose": 58.67,
+  "change": -0.17,
+  "changePercent": -0.2898,
   "currency": "BRL",
-  "asOf": "2026-11-09T19:55:00Z",
+  "asOf": "2026-11-10T13:00:00Z",
   "error": null
 }
