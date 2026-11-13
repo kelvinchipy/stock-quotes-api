@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:10:53Z",
+  "generatedAt": "2026-11-13T13:15:51Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -165,12 +165,12 @@
       "name": "Kinea Fundo de Fundos FII",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 73.3,
-      "previousClose": 74.04,
-      "change": -0.74,
-      "changePercent": -0.9995,
+      "price": 73.46,
+      "previousClose": 73.3,
+      "change": 0.16,
+      "changePercent": 0.2183,
       "currency": "BRL",
-      "asOf": "2026-11-12T19:55:00Z",
+      "asOf": "2026-11-13T13:00:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.6641,
+      "price": 5.6488,
       "previousClose": 5.6453,
-      "change": 0.0188,
-      "changePercent": 0.333,
+      "change": 0.0035,
+      "changePercent": 0.062,
       "currency": "BRL",
-      "asOf": "2026-11-13T13:10:00Z",
+      "asOf": "2026-11-13T13:15:00Z",
       "error": null
     },
     {
