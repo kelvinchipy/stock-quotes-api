@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:55:43Z",
+  "generatedAt": "2026-11-13T00:00:56Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -478,9 +478,9 @@
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
       "price": 605.4,
-      "previousClose": 601.61,
-      "change": 3.79,
-      "changePercent": 0.63,
+      "previousClose": 595.25,
+      "change": 10.15,
+      "changePercent": 1.7052,
       "currency": "USD",
       "asOf": "2026-11-12T20:55:00Z",
       "error": null
