@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:25:50Z",
+  "generatedAt": "2026-11-14T11:30:57Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -360,10 +360,10 @@
       "name": "Intel Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 59.665,
+      "price": 59.66,
       "previousClose": 61.9211,
-      "change": -2.2561,
-      "changePercent": -3.6435,
+      "change": -2.2611,
+      "changePercent": -3.6516,
       "currency": "USD",
       "asOf": "2026-11-13T20:55:00Z",
       "error": null
