@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:15:41Z",
+  "generatedAt": "2026-11-19T11:20:51Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -425,10 +425,10 @@
       "name": "Berkshire Hathaway Cl. B",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 574.28,
+      "price": 574.27,
       "previousClose": 574.3,
-      "change": -0.02,
-      "changePercent": -0.0035,
+      "change": -0.03,
+      "changePercent": -0.0052,
       "currency": "USD",
       "asOf": "2026-11-18T20:55:00Z",
       "error": null
