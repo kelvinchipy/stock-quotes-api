@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-19T18:05:49Z",
+  "generatedAt": "2026-11-19T18:10:45Z",
   "symbol": "CAT",
   "name": "Caterpillar Inc.",
   "market": "US",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-  "price": 540.63,
+  "price": 540.3,
   "previousClose": 562.0,
-  "change": -21.37,
-  "changePercent": -3.8025,
+  "change": -21.7,
+  "changePercent": -3.8612,
   "currency": "USD",
-  "asOf": "2026-11-19T18:05:00Z",
+  "asOf": "2026-11-19T18:10:00Z",
   "error": null
 }
