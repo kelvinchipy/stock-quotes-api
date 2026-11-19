@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T13:10:53Z",
+  "generatedAt": "2026-11-19T13:15:47Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -126,12 +126,12 @@
       "name": "Eneva ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 25.94,
-      "previousClose": 26.78,
-      "change": -0.84,
-      "changePercent": -3.1367,
+      "price": 26.2,
+      "previousClose": 25.94,
+      "change": 0.26,
+      "changePercent": 1.0023,
       "currency": "BRL",
-      "asOf": "2026-11-18T19:55:00Z",
+      "asOf": "2026-11-19T13:00:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.8873,
+      "price": 5.8923,
       "previousClose": 5.8488,
-      "change": 0.0385,
-      "changePercent": 0.6583,
+      "change": 0.0435,
+      "changePercent": 0.7437,
       "currency": "BRL",
-      "asOf": "2026-11-19T13:10:00Z",
+      "asOf": "2026-11-19T13:15:00Z",
       "error": null
     },
     {
