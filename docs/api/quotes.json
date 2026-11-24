@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:10:50Z",
+  "generatedAt": "2026-11-24T13:15:46Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -100,12 +100,12 @@
       "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 66.2,
-      "previousClose": 66.93,
-      "change": -0.73,
-      "changePercent": -1.0907,
+      "price": 66.72,
+      "previousClose": 66.2,
+      "change": 0.52,
+      "changePercent": 0.7855,
       "currency": "BRL",
-      "asOf": "2026-11-23T19:55:00Z",
+      "asOf": "2026-11-24T13:00:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.8662,
+      "price": 5.8637,
       "previousClose": 5.9293,
-      "change": -0.0631,
-      "changePercent": -1.0642,
+      "change": -0.0656,
+      "changePercent": -1.1064,
       "currency": "BRL",
-      "asOf": "2026-11-24T13:10:00Z",
+      "asOf": "2026-11-24T13:15:00Z",
       "error": null
     },
     {
