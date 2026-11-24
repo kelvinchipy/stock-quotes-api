@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:01:01Z",
+  "generatedAt": "2026-11-24T19:05:45Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -14,7 +14,7 @@
       "change": -2.87,
       "changePercent": -4.8934,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -27,7 +27,7 @@
       "change": 0.1,
       "changePercent": 0.7758,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -35,12 +35,12 @@
       "name": "Engie Brasil Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 24.58,
+      "price": 24.56,
       "previousClose": 24.67,
-      "change": -0.09,
-      "changePercent": -0.3648,
+      "change": -0.11,
+      "changePercent": -0.4459,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -48,12 +48,12 @@
       "name": "IRB Brasil RE ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 58.5,
+      "price": 58.59,
       "previousClose": 58.48,
-      "change": 0.02,
-      "changePercent": 0.0342,
+      "change": 0.11,
+      "changePercent": 0.1881,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -61,12 +61,12 @@
       "name": "WEG ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 50.08,
+      "price": 49.96,
       "previousClose": 50.11,
-      "change": -0.03,
-      "changePercent": -0.0599,
+      "change": -0.15,
+      "changePercent": -0.2993,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -79,7 +79,7 @@
       "change": 0.11,
       "changePercent": 3.0055,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -87,12 +87,12 @@
       "name": "Ultrapar Participações ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 30.12,
+      "price": 30.17,
       "previousClose": 31.37,
-      "change": -1.25,
-      "changePercent": -3.9847,
+      "change": -1.2,
+      "changePercent": -3.8253,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -100,12 +100,12 @@
       "name": "Patria Crédito Imobiliário FII (ex-CVBI11)",
       "market": "FII",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 66.91,
+      "price": 67.03,
       "previousClose": 66.2,
-      "change": 0.71,
-      "changePercent": 1.0725,
+      "change": 0.83,
+      "changePercent": 1.2538,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -131,7 +131,7 @@
       "change": 0.58,
       "changePercent": 2.2291,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -144,7 +144,7 @@
       "change": 0.02,
       "changePercent": 0.1765,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -152,12 +152,12 @@
       "name": "iShares Ibovespa (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 162.32,
+      "price": 162.27,
       "previousClose": 162.36,
-      "change": -0.04,
-      "changePercent": -0.0246,
+      "change": -0.09,
+      "changePercent": -0.0554,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -170,7 +170,7 @@
       "change": 0.88,
       "changePercent": 1.2671,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -183,7 +183,7 @@
       "change": 0.0,
       "changePercent": 0.0,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -191,12 +191,12 @@
       "name": "Vibra Energia ON",
       "market": "B3",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 31.22,
+      "price": 31.26,
       "previousClose": 30.46,
-      "change": 0.76,
-      "changePercent": 2.4951,
+      "change": 0.8,
+      "changePercent": 2.6264,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -209,7 +209,7 @@
       "change": 0.15,
       "changePercent": 1.6835,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -222,7 +222,7 @@
       "change": 0.0,
       "changePercent": 0.0,
       "currency": "BRL",
-      "asOf": "2026-11-24T18:45:00Z",
+      "asOf": "2026-11-24T18:50:00Z",
       "error": null
     },
     {
@@ -230,12 +230,12 @@
       "name": "Nebius Group N.V.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 86.77,
+      "price": 86.48,
       "previousClose": 99.0,
-      "change": -12.23,
-      "changePercent": -12.3535,
+      "change": -12.52,
+      "changePercent": -12.6465,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -243,12 +243,12 @@
       "name": "Nike Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 35.925,
+      "price": 35.77,
       "previousClose": 33.79,
-      "change": 2.135,
-      "changePercent": 6.3184,
+      "change": 1.98,
+      "changePercent": 5.8597,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -256,12 +256,12 @@
       "name": "MercadoLibre Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 1438.54,
+      "price": 1438.215,
       "previousClose": 1431.0,
-      "change": 7.54,
-      "changePercent": 0.5269,
+      "change": 7.215,
+      "changePercent": 0.5042,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -269,12 +269,12 @@
       "name": "SPDR Gold Shares (ETF)",
       "market": "ETF",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 325.83,
+      "price": 325.82,
       "previousClose": 332.55,
-      "change": -6.72,
-      "changePercent": -2.0208,
+      "change": -6.73,
+      "changePercent": -2.0238,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -282,12 +282,12 @@
       "name": "NVIDIA Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 153.44,
+      "price": 152.7258,
       "previousClose": 165.2596,
-      "change": -11.8196,
-      "changePercent": -7.1521,
+      "change": -12.5338,
+      "changePercent": -7.5843,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -295,12 +295,12 @@
       "name": "Tesla Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 383.085,
+      "price": 382.81,
       "previousClose": 385.1344,
-      "change": -2.0494,
-      "changePercent": -0.5321,
+      "change": -2.3244,
+      "changePercent": -0.6035,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -308,12 +308,12 @@
       "name": "The Coca-Cola Co.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 97.78,
+      "price": 97.745,
       "previousClose": 95.99,
-      "change": 1.79,
-      "changePercent": 1.8648,
+      "change": 1.755,
+      "changePercent": 1.8283,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -321,12 +321,12 @@
       "name": "Johnson & Johnson",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 275.82,
+      "price": 275.915,
       "previousClose": 270.74,
-      "change": 5.08,
-      "changePercent": 1.8763,
+      "change": 5.175,
+      "changePercent": 1.9114,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -334,12 +334,12 @@
       "name": "Space Exploration Technologies Corp. (SpaceX)",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 127.15,
+      "price": 126.63,
       "previousClose": 133.9895,
-      "change": -6.8395,
-      "changePercent": -5.1045,
+      "change": -7.3595,
+      "changePercent": -5.4926,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -347,12 +347,12 @@
       "name": "Exxon Mobil Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 158.705,
+      "price": 158.6499,
       "previousClose": 157.1054,
-      "change": 1.5996,
-      "changePercent": 1.0182,
+      "change": 1.5445,
+      "changePercent": 0.9831,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -360,12 +360,12 @@
       "name": "Intel Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 55.19,
+      "price": 55.1,
       "previousClose": 58.8947,
-      "change": -3.7047,
-      "changePercent": -6.2904,
+      "change": -3.7947,
+      "changePercent": -6.4432,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -373,12 +373,12 @@
       "name": "S&P 500 (índice)",
       "market": "Índice",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 7190.4502,
+      "price": 7186.3901,
       "previousClose": 7236.8501,
-      "change": -46.3999,
-      "changePercent": -0.6412,
+      "change": -50.46,
+      "changePercent": -0.6973,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -386,12 +386,12 @@
       "name": "BlackRock Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 1141.545,
+      "price": 1139.49,
       "previousClose": 1146.31,
-      "change": -4.765,
-      "changePercent": -0.4157,
+      "change": -6.82,
+      "changePercent": -0.595,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.8995,
+      "price": 5.9028,
       "previousClose": 5.9293,
-      "change": -0.0298,
-      "changePercent": -0.5026,
+      "change": -0.0265,
+      "changePercent": -0.4469,
       "currency": "BRL",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -412,12 +412,12 @@
       "name": "SKHY (verificar ativo exato após 1ª execução)",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 112.82,
+      "price": 112.39,
       "previousClose": 125.3,
-      "change": -12.48,
-      "changePercent": -9.9601,
+      "change": -12.91,
+      "changePercent": -10.3033,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -425,12 +425,12 @@
       "name": "Berkshire Hathaway Cl. B",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 577.02,
+      "price": 576.755,
       "previousClose": 573.73,
-      "change": 3.29,
-      "changePercent": 0.5734,
+      "change": 3.025,
+      "changePercent": 0.5273,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -443,7 +443,7 @@
       "change": 3.6062,
       "changePercent": 0.7345,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -451,12 +451,12 @@
       "name": "Advanced Micro Devices Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 414.0498,
+      "price": 413.12,
       "previousClose": 447.7501,
-      "change": -33.7003,
-      "changePercent": -7.5266,
+      "change": -34.6301,
+      "changePercent": -7.7342,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -464,12 +464,12 @@
       "name": "Meta Platforms Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 591.86,
+      "price": 591.31,
       "previousClose": 598.0,
-      "change": -6.14,
-      "changePercent": -1.0268,
+      "change": -6.69,
+      "changePercent": -1.1187,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -477,12 +477,12 @@
       "name": "Caterpillar Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 539.3892,
+      "price": 538.815,
       "previousClose": 546.5,
-      "change": -7.1108,
-      "changePercent": -1.3011,
+      "change": -7.685,
+      "changePercent": -1.4062,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -490,12 +490,12 @@
       "name": "Palantir Technologies Inc.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 161.75,
+      "price": 161.645,
       "previousClose": 158.65,
-      "change": 3.1,
-      "changePercent": 1.954,
+      "change": 2.995,
+      "changePercent": 1.8878,
       "currency": "USD",
-      "asOf": "2026-11-24T19:00:00Z",
+      "asOf": "2026-11-24T19:05:00Z",
       "error": null
     },
     {
@@ -503,10 +503,10 @@
       "name": "Oracle Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 109.385,
+      "price": 109.24,
       "previousClose": 113.6871,
-      "change": -4.3021,
-      "changePercent": -3.7842,
+      "change": -4.4471,
+      "changePercent": -3.9117,
       "currency": "USD",
       "asOf": "2026-11-24T19:00:00Z",
       "error": null
