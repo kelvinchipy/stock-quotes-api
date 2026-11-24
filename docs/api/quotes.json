@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:20:48Z",
+  "generatedAt": "2026-11-24T21:25:43Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -282,10 +282,10 @@
       "name": "NVIDIA Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 155.47,
+      "price": 155.48,
       "previousClose": 165.2596,
-      "change": -9.7896,
-      "changePercent": -5.9238,
+      "change": -9.7796,
+      "changePercent": -5.9177,
       "currency": "USD",
       "asOf": "2026-11-24T20:55:00Z",
       "error": null
@@ -399,12 +399,12 @@
       "name": "Dólar americano / Real (câmbio)",
       "market": "Câmbio",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 5.907,
+      "price": 5.906,
       "previousClose": 5.9293,
-      "change": -0.0223,
-      "changePercent": -0.3761,
+      "change": -0.0233,
+      "changePercent": -0.393,
       "currency": "BRL",
-      "asOf": "2026-11-24T21:20:00Z",
+      "asOf": "2026-11-24T21:25:00Z",
       "error": null
     },
     {
