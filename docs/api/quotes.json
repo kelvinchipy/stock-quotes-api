@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T23:30:46Z",
+  "generatedAt": "2026-11-24T23:35:45Z",
   "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
   "count": 39,
   "okCount": 38,
@@ -282,10 +282,10 @@
       "name": "NVIDIA Corp.",
       "market": "US",
       "source": "Yahoo Finance (atraso aproximado de 15 a 20 minutos)",
-      "price": 155.48,
+      "price": 155.47,
       "previousClose": 165.2596,
-      "change": -9.7796,
-      "changePercent": -5.9177,
+      "change": -9.7896,
+      "changePercent": -5.9238,
       "currency": "USD",
       "asOf": "2026-11-24T20:55:00Z",
       "error": null
